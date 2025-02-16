@@ -3,7 +3,7 @@
 A responsive **Zoho Landing Page** built using **HTML & CSS** to replicate the Zoho design aesthetics.
 
 📌 Live Demo
-🔗 Check it out here
+🔗 Check it out here (https://mahehe12.github.io/Zoho-Landing-Page/)
 
 ## 🚀 Features
 - 📌 Fully responsive design  
@@ -15,7 +15,7 @@ A responsive **Zoho Landing Page** built using **HTML & CSS** to replicate the Z
 - **CSS3 (Flexbox & Grid)**  
 
 ## 📷 Screenshots
-![Landing Page Preview](![Screenshot 2025-02-16 203322](https://github.com/user-attachments/assets/97e371fc-8fa5-4106-9183-67e0650b5c0f))
+![Screenshot 2025-02-16 203322](https://github.com/user-attachments/assets/97e371fc-8fa5-4106-9183-67e0650b5c0f)
 ![Screenshot 2025-02-16 203341](https://github.com/user-attachments/assets/954f8981-7792-459b-8914-da81bbd72371)
 ![Screenshot 2025-02-16 203404](https://github.com/user-attachments/assets/a2ffe829-eb0a-4b81-91a5-5081b40af98e)
 ![Screenshot 2025-02-16 203415](https://github.com/user-attachments/assets/638ac7ea-fcab-4dfe-9be0-672bcb330be4)
